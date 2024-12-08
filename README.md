@@ -47,6 +47,8 @@ pip install pyttsx3
 pip install requests
 pip install transformers
 pip install torch
+pip install pyaudio
+
 
 Library Overview:
 
